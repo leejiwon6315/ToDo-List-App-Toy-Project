@@ -4,4 +4,4 @@
 
 <img width="800" alt="todo1" src="https://user-images.githubusercontent.com/60544994/90373733-5b109980-e0ad-11ea-9d98-f3a9272c0098.png"></img>
 
-<img width="1680" alt="todo2" src="https://user-images.githubusercontent.com/60544994/90373879-9317dc80-e0ad-11ea-99b2-17b5563f09c2.png"></img>
+<img width="800" alt="todo2" src="https://user-images.githubusercontent.com/60544994/90373879-9317dc80-e0ad-11ea-99b2-17b5563f09c2.png"></img>
